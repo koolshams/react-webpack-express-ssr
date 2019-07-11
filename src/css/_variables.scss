@@ -1,0 +1,36 @@
+$color-white: #ffffff;
+$color-grey-bb: #bbbbbb;
+$color-grey-ee: #eeeeee;
+$color-grey-e9: #e9e9e9;
+$color-grey-fa: #fafafa;
+$color-grey-f2: #f2f2f2;
+$color-grey-99: #999999;
+$color-grey-66: #666666;
+$color-grey-d9: #d9d9d9;
+$color-sui-grey: #f0ede8;
+$color-sui-brown: #a07a63;
+$color-sui-dark-brown: #352c2c;
+$color-sui-taupe: #f7f6f3;
+$color-red: #e40001;
+$color-green: #25d366;
+$color-dark-slate-blue: #183051;
+
+$raleway-bold-font: 'raleway_semibold', sans-serif;
+$raleway-regular-font: 'raleway_regular', helvetica, sans-serif;
+$roboto-light-font: 'roboto_condensedlight', sans-serif;
+$roboto-regular-font: 'roboto_condensedregular', sans-serif;
+$playfairdisplay-regular-font: 'playfairdisplay_regular', serif;
+
+@mixin uppercase-12() {
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  line-height: 2.17;
+}
+
+@mixin uppercase-14() {
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+  line-height: 2.86;
+}

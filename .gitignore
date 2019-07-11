@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+dist/
+*.iml
+npm-debug.log
+**/.DS_Store
+tmp/
+/.vscode
+/.settings
+/public/dist/

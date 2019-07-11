@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+  min-height: calc(100vh - 388px);
+  margin: 44px auto 0 auto;
+
+  @media screen and (min-width: 768px) {
+    min-height: calc(100vh - 314px);
+    margin-top: 48px;
+  }
+}

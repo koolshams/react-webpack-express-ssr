@@ -1,0 +1,11 @@
+{
+  "api": {
+    "host": "APIHOST",
+    "port": "APIPORT"
+  },
+
+  "client": {
+    "host": "HOST",
+    "port": "PORT"
+  }
+}
